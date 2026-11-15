@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Arquivos de trabalho do Blender (pesados demais para o GitHub; os renders prontos estão em 09_render_realista/renders)
+09_render_realista/assets/
+09_render_realista/cena/
+*.blend
+*.blend1
